@@ -1,0 +1,17 @@
+input: .
+output: .retype
+url: https://docs.heo-systems.net/
+branding:
+  title: HEO Systems
+  label: Docs
+links:
+- text: Main Website
+  link: https://heo-systems.net/
+- text: Client Area
+  link: https://clients.heo-systems.net/
+- text: Webhosting Dashboard
+  link: https://web-hosting.heo-systems.net/
+- text: Game Panel
+  link: https://ptero.heo-systems.net/
+footer:
+  copyright: "&copy; Copyright HEO Systems B.V. {{ year }}. All rights reserved."

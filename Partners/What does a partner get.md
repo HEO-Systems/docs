@@ -7,7 +7,7 @@ This table represents everything a partner will get from us.
 | Features | Partners | Partners (Community Owners) |
 |-----------------|------------------------------|
 | Commission | 15% | up to 30% |
-| Free performance server | On request* | ✅ |
+| Free server | On request* | ✅ |
 | Account Manager | ✅ | ✅ |
 | Discounts for your fan base | ✅ | ✅ |
 | Minecraft Team  | ✅ | ✅ |

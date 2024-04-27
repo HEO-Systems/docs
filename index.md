@@ -1,3 +1,6 @@
+---
+order: 10000
+---
 # HEO Systems Docs
 
 Welcome to HEO Systems Docs! This website is designed to provide valuable information about HEO Systems and help you learn about its hosting capabilities. Whether you're a partner looking to explore the advantages of HEO Systems or an individual seeking assistance with game hosting, this website is here to assist you.

@@ -1,3 +1,6 @@
+---
+order: 900
+---
 # What does a partner get?
 
 As an HEO Systems Partner, you earn money when you bring new users to HEO Systems that purchase a service from us.

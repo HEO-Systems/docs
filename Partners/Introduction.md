@@ -1,3 +1,6 @@
+---
+order: 1000
+---
 # Introduction
 
 Welcome to the HEO Systems Partner Program! We're thrilled that you are interested in our program. Here's everything you need to know about our program:

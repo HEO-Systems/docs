@@ -2,9 +2,17 @@
 
 Welcome to HEO Systems Docs! This website is designed to provide valuable information about HEO Systems and help you learn about its hosting capabilities. Whether you're a partner looking to explore the advantages of HEO Systems or an individual seeking assistance with game hosting, this website is here to assist you.
 
+## Looking for support?
+
+If you need assistance or have any questions, feel free to reach out to us through any of the following channels:
+
+- Tickets: [Submit a Ticket](https://clients.heo-systems.net/submitticket.php)
+- Email: [info@heo-systems.com](mailto:info@heo-systems.com)
+- Discord: [Join our Discord Server](https://discord.gg/TgvJSJbHDe)
+
 ## What is HEO Systems?
 
-HEO Systems is a leading provider of advanced hosting solutions for game developers and enthusiasts. With our cutting-edge technology and extensive expertise, we offer reliable and scalable hosting services tailored to meet the unique requirements of the gaming industry.
+HEO Systems provides hosting solutions for game developers and enthusiasts. Our mission is to make it easy and affordable for anyone to operate any kind of internet service at any scale at the lowest price possible.
 
 ## How HEO Systems Docs Can Help You
 

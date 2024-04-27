@@ -14,4 +14,4 @@ links:
 - text: Game Panel
   link: https://ptero.heo-systems.net/
 footer:
-  copyright: "&copy; Copyright HEO Systems B.V. {{ year }}. All rights reserved."
+  copyright: "&copy; {{ year }} HEO Systems B.V. All Rights Reserved."

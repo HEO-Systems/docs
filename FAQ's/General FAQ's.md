@@ -7,7 +7,7 @@ Absolutely! We've introduced a streamlined system that empowers you to adjust yo
 
 ### I've Recently Purchased a Service, What's the Next Step?
 Thank you for choosing our services! Here's how you can get started depending on the service you've purchased:
-- **Web Hosting**: Simply log in to your control panel through our client area to seamlessly manage your service. For detailed guidance, look into the "Web Hosting" section in our documentation [here](link).
+- **Web Hosting**: Simply log in to your control panel through our client area to seamlessly manage your service. For detailed guidance, look into the "Web Hosting" section in our documentation [here](/new-customers/new-customers---webhosting/).
 
 - **Minecraft / Discord Bot or Other Games**: If you're new to our gaming services, you'll need to create a game panel account. Follow the instructions outlined in this section of our documentation [here](link), or watch our step-by-step tutorial on YouTube: [YouTube Video Tutorial](https://www.youtube.com/watch?v=72MMz03NDww).
 

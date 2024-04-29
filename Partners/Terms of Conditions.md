@@ -5,15 +5,13 @@ order: 0
 
 **1. Partner Eligibility**
 
-a. To be eligible for the HEO Systems Partner Program, you must be a registered business entity in good standing.
+a. You must adhere to all applicable laws and regulations in your jurisdiction.
 
-b. You must adhere to all applicable laws and regulations in your jurisdiction.
-
-c. HEO Systems reserves the right to reject any application for partnership for any reason.
+b. HEO Systems reserves the right to reject any application for partnership for any reason.
 
 **2. Partnership Benefits**
 
-a. As a partner, you will have access to exclusive resources, training materials, and support from HEO Systems.
+a. As a partner, you will have access to exclusive resources and support from HEO Systems.
 
 b. You will earn commission on sales generated through your unique partner link or code.
 

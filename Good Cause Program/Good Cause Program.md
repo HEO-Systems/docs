@@ -48,7 +48,7 @@ We have proudly supported numerous organizations through the Good Cause Program.
 ## Contact Us
 
 If you have any questions about the Good Cause Program or need assistance with your application, please contact us at:
-- **Email:** goodcause@heosystems.com
+- **Email:** goodcause@heo-systems.com
 - **Discord:** [https://discord.gg/TgvJSJbHDe](https://discord.gg/TgvJSJbHDe)
 
 Join the Good Cause Program today and let HEO Systems support your mission to make a difference!

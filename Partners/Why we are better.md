@@ -1,7 +1,7 @@
 ---
 order: 950
 ---
-# Why our partner program is better then any that is avaliable with other hosts.
+# Why our partner program is better
 
 We're all about building solid partnerships and taking care of our customers. We're not like those other hosting companies, we do things differently here.
 

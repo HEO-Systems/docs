@@ -13,7 +13,7 @@ This remarkable feature demonstrates our dedication to partner success and long-
 
 ## Recurring Discounts for your fanbase
 
-Most hosting companies are stingy with their discounts. For example, they give a measly 20% off for the first month and then BAM! Full price the next month. It's like they're trying to trick people into signing up, and hope players hope that they forget to cancel. We don't do those kind of things at HEO Systems, the discounts we give to partners for their players are recurring. For as long as they are with us, and you will keep getting a commission every cycle.
+Most hosting companies are stingy with their discounts. For example, they give a measly 20% off for the first month and then BAM! Full price the next month. It's like they're trying to trick people into signing up, and hope that players forget to cancel. We don't do those kind of things at HEO Systems, the discounts we give to partners for their players are recurring. For as long as they are with us, and you will keep getting a commission every cycle.
 
 
 ## Join Us Today!

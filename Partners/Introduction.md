@@ -11,10 +11,6 @@ At HEO Systems, we believe in rewarding our partners for their efforts consisten
 
 This remarkable feature demonstrates our dedication to partner success and long-term collaboration. We understand the value of loyalty and retention, and we strive to prioritize ongoing support and rewards for our partners.
 
-## Large Communities
-
-Do you have a large community? Then you're in luck! As an HEO Systems Partner, you can earn a standard 15% commission on your referrals. However, if you have a significant following or community, you may qualify for even greater rewards. Reach out to your dedicated account manager or contact our Partners department at partners@heo-systems.com to unlock the opportunity to earn up to a whopping 30% commission! Join us today and let's grow together!
-
 ## Commission Structure Overview
 
 Here's a quick overview of how much you can earn with our *default commission (15%)* each month:

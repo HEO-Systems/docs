@@ -7,15 +7,15 @@ As an HEO Systems Partner, you earn money when you bring new users to HEO System
 
 This table represents everything a partner will get from us.
 
-| Features | Partners | Partners (Community Owners) |
-|-----------------|------------------------------|
-| Commission | 15% | up to 30% |
-| Free server | On request* | ✅ |
-| Account Manager | ✅ | ✅ |
-| Discounts for your fan base | ✅ | ✅ |
-| Minecraft Team  | ✅ | ✅ |
-| Minecraft Events| ✅ | ✅ |
-| Want something else? Contact us! | | |
+| Features | Partners |
+|-----------------|
+| Commission | 15% |
+| Free server | On request* |
+| Account Manager | ✅ |
+| Discounts for your fan base | ✅ |
+| Minecraft Team  | ✅ |
+| Minecraft Events| ✅ |
+| Want something else? Contact us! |
 
 **Commission**: You will receive commission on every purchase made, these also include monthly subscriptions. You will continue to receive them every month if the customer's subscription is still active.
 
